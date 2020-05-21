@@ -32,6 +32,7 @@ header {
 
 .header-left {
     float: left;
+    padding-left: 8px;
 }
 
 .header-right {
